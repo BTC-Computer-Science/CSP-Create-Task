@@ -5,11 +5,7 @@
 
 Programming is a collaborative and creative process that brings ideas to life through the development of software. Programs can help solve problems, enable innovations, or express personal interests. In this performance task, you will be developing a program of your choice. Your development process should include iteratively designing, implementing, and testing your program. You are strongly encouraged to work with another student in your class.
 
----
-
-``` For this practice task you will work individually to document the class program that you have been given.```
-
----
+> For this practice task you will work individually to document the class program that you have been given.
 
 Please note that once this performance task has been assigned as an assessment
 (rather than as practice), you are expected to complete the task with minimal

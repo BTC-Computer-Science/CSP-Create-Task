@@ -89,10 +89,10 @@ Explain how your abstraction helped manage the complexity of your program.
 
 ### 3. Program Code
 Capture and paste your entire program code in this section.
-› Mark with an oval the segment of program code that implements the algorithm
+* Mark with an oval the segment of program code that implements the algorithm
 you created for your program that integrates other algorithms and integrates
 mathematical and/or logical concepts.
-› Mark with a rectangle the segment of program code that represents an
+* Mark with a rectangle the segment of program code that represents an
 abstraction you developed.
-› Include comments or acknowledgments for program code that has been written
+* Include comments or acknowledgments for program code that has been written
 by someone else.

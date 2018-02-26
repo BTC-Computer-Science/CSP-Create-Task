@@ -1,11 +1,9 @@
-# AP CS Principles - Create Task - Practice Performance Task - Flag Project
-
 # Performance Task: Create – Applications from Ideas
 ## Overview
 
 Programming is a collaborative and creative process that brings ideas to life through the development of software. Programs can help solve problems, enable innovations, or express personal interests. In this performance task, you will be developing a program of your choice. Your development process should include iteratively designing, implementing, and testing your program. You are strongly encouraged to work with another student in your class.
 
-> For this practice task you will work individually to document the class program that you have been given.
+> **These are instructions for the practice task added by your teacher.** For this practice task you will work individually to document the class program that you have been given.
 
 Please note that once this performance task has been assigned as an assessment
 (rather than as practice), you are expected to complete the task with minimal
@@ -21,7 +19,13 @@ available on the AP Computer Science Principles Course Home Page.
 
 ## General Requirements
 
-This performance task requires you to develop a program on a topic that interests you or one that solves a problem. During the completion of this performance task, you will iteratively design, implement, and test your program. You will provide written responses to prompts about your program and specific program code that are significant to the functionality of your program. It is strongly recommended that a portion of the program involve some form of collaboration with another student in your class, for example, in the planning, designing, or testing (debugging) part of the development process. Your program development must also involve a significant amount of independent work writing your program code, in particular, algorithm(s) and abstraction(s) that you select to use as part of your written response to describe how the program code segments help your program run.
+This performance task requires you to develop a program on a topic that interests you or one that solves a problem. During the completion of this performance task, you will iteratively design, implement, and test your program. 
+
+> For the practice task a program has been given to you. You may use your own program for the practice task. However, you may not use the same program for the practice task and the actual assessment. You will develop an original program for the actual assessment task.
+
+You will provide written responses to prompts about your program and specific program code that are significant to the functionality of your program. It is strongly recommended that a portion of the program involve some form of collaboration with another student in your class, for example, in the planning, designing, or testing (debugging) part of the development process. Your program development must also involve a significant amount of independent work writing your program code, in particular, algorithm(s) and abstraction(s) that you select to use as part of your written response to describe how the program code segments help your program run.
+
+> The writing is the part of the task that is scored by AP readers. Spend most of your time developing clear, consise writing that explains your program.
 
 **You are required to:**
 * independently develop an algorithm that integrates two or more algorithms and
@@ -38,8 +42,7 @@ Your program must demonstrate a variety of capabilities and implement several
 different language features that, when combined, produce a result that cannot be
 easily accomplished without computing tools and techniques. Your program should
 draw upon mathematical and logical concepts, such as use of numbers, variables,
-mathematical expressions with arithmetic operators, logical and Boolean operators
-and expressions, decision statements, iteration, and/or collections.
+mathematical expressions with arithmetic operators, logical and Boolean operators and expressions, decision statements, iteration, and/or collections.
 
 Your program must demonstrate:
 * use of several effectively integrated mathematical and logical concepts, from the language you are using;

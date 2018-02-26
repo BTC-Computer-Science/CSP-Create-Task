@@ -3,7 +3,7 @@
 
 Programming is a collaborative and creative process that brings ideas to life through the development of software. Programs can help solve problems, enable innovations, or express personal interests. In this performance task, you will be developing a program of your choice. Your development process should include iteratively designing, implementing, and testing your program. You are strongly encouraged to work with another student in your class.
 
-> **These are instructions for the practice task added by your teacher.** For this practice task you will work individually to document the class program that you have been given.
+> _These are instructions for the practice task have been  added by your teacher._ For this practice task you will work individually to document the class program that you have been given.
 
 Please note that once this performance task has been assigned as an assessment
 (rather than as practice), you are expected to complete the task with minimal
@@ -69,7 +69,7 @@ _(Must not exceed 150 words)_
 2b. Describe the incremental and iterative development process of your program,
 focusing on two distinct points in that process. Describe the difficulties and/
 or opportunities you encountered and how they were resolved or incorporated.
-In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development. (Must not exceed 200 words)
+In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development. _(Must not exceed 200 words)_
 
 2c. Capture and paste a program code segment that implements an algorithm
 (marked with an oval in section 3 below) and that is fundamental for your
@@ -78,13 +78,13 @@ algorithm you developed individually on your own, must include two or more
 algorithms, and must integrate mathematical and/or logical concepts. Describe
 how each algorithm within your selected algorithm functions independently,
 as well as in combination with others, to form a new algorithm that helps to
-achieve the intended purpose of the program. (Must not exceed 200 words)
+achieve the intended purpose of the program. _(Must not exceed 200 words)_
 
 2d. Capture and paste a program code segment that contains an abstraction you
 developed individually on your own (marked with a rectangle in section 3
 below). This abstraction must integrate mathematical and logical concepts.
 Explain how your abstraction helped manage the complexity of your program.
-(Must not exceed 200 words)
+_(Must not exceed 200 words)_
 
 ### 3. Program Code
 Capture and paste your entire program code in this section.

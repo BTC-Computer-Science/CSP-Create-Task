@@ -25,7 +25,7 @@ This performance task requires you to develop a program on a topic that interest
 
 You will provide written responses to prompts about your program and specific program code that are significant to the functionality of your program. It is strongly recommended that a portion of the program involve some form of collaboration with another student in your class, for example, in the planning, designing, or testing (debugging) part of the development process. Your program development must also involve a significant amount of independent work writing your program code, in particular, algorithm(s) and abstraction(s) that you select to use as part of your written response to describe how the program code segments help your program run.
 
-> The writing is the part of the task that is scored by AP readers. Spend most of your time developing clear, consise writing that explains your program.
+> The writing is the part of the task that is scored by AP readers. Spend most of your time developing clear, concise writing that explains your program.
 
 **You are required to:**
 * independently develop an algorithm that integrates two or more algorithms and

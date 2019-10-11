@@ -1,4 +1,7 @@
 # Performance Task: Create – Applications from Ideas
+## Deadline
+The Create Task is due April 30th. 
+
 ## Overview
 
 Programming is a collaborative and creative process that brings ideas to life through the development of software. Programs can help solve problems, enable innovations, or express personal interests. In this performance task, you will be developing a program of your choice. Your development process should include iteratively designing, implementing, and testing your program. You are strongly encouraged to work with another student in your class.
